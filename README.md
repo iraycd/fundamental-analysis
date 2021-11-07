@@ -59,3 +59,10 @@
 + Efficient Frontier
 + Dollar-Cost Averaging to Build Wealth Over Time
 + Barbell Investment Strategy
+
+### 11. Most Important is Valuation of Company
++ Valuation Undergraduate Spring 2021 - Aswath Damodaran
++ Valuation MBA Spring 2021 - Aswath Damodaran
++ Tesla at a Trillion-Dollar Market Cap: Revisiting its Valuation
+  + [Excel](https://view.officeapps.live.com/op/view.aspx?src=http%3A%2F%2Fpeople.stern.nyu.edu%2Fadamodar%2Fpc%2Fblog%2FTeslaNov2021DIY.xlsx&wdOrigin=BROWSELINK)
+  + [PDF](http://people.stern.nyu.edu/adamodar/pdfiles/blog/TeslaTrillion.pdf)
